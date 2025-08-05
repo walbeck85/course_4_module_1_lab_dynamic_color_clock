@@ -1,4 +1,4 @@
-# 🕒 Dynamic Color Clock
+# Dynamic Color Clock
 
 This is a lab project for **Flatiron School – Course 4: Front-End Development with React**, Module 1. The application is a simple digital clock that updates every second, built using **React** and **Vite**.
 
